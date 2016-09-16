@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Musify</string>
+
+    <string name="copyright_text_line1">Copyright © 2016 LynQQ Inc.</string>
+    <string name="copyright_text_line2">All rights reserved. The use of this app is subject to its terms and conditions of use.</string>
+    <string name="choose_storage">Choose storage to scan for audio files:"</string>
+
+    <string name="activity_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consectetur diam id aliquam scelerisque. Donec ultrices lacus vel dignissim pharetra.</string>
+
+</resources>
